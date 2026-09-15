@@ -1,0 +1,15 @@
+# Windows / OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Office / Word temp files
+~$*
+*.tmp
+
+# VS Code / IDE
+.vscode/
+.idea/
+.codex-docx-render/

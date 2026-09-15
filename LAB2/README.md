@@ -9,7 +9,6 @@ Phạm Minh Quân
 ## ▪ Lớp / Học phần:
 - **Lớp:** 11THMT
 - **Học phần:** An toàn Hệ thống thông tin (`LAB_AT_BMHTTT`)
-- **Link Video thực hành YouTube:** [https://youtu.be/9wAA8LGe87c](https://youtu.be/9wAA8LGe87c) *(quay lại toàn bộ quá trình thực hiện bài lab)*
 
 ---
 

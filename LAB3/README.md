@@ -12,18 +12,18 @@ Windows 11 25H2 build 26200.9445 trên VMware Workstation Pro 26H1, mạng Host-
 
 Tạo VM Windows 11 và snapshot sạch, đặt card mạng ở Host-only, tạo thư mục `C:\LAB3`, kiểm tra SHA-256 rồi giải nén gói dữ liệu lab. Cài đúng phiên bản công cụ, giữ Defender và Tamper Protection bật, sau đó thu baseline trước khi thực hành.
 
-## Các tình huống và kết quả
+## Các tình huống
 
-| Tình huống | Nội dung | Kết quả |
-|---|---|---|
-| TH1 | Risk register và phân loại nguồn đe dọa | PASS |
-| TH2 | Kiểm chứng Defender bằng EICAR | PASS |
-| TH3 | Sự kiện xác thực 4624, 4625, 4648 và đổi mật khẩu | PASS |
-| TH4 | Persistence, Sysmon, Autoruns và listener 8080 | PASS |
-| TH5 | So sánh HTTP và HTTPS/TLS bằng Wireshark | PASS |
-| TH6 | Phân tích DoS, DDoS và mail bombing offline | PASS |
-| TH7 | Phishing và Social Engineering offline | PASS |
-| Cleanup | Gỡ artefact, dừng listener, xóa tài khoản lab và kiểm tra Defender | PASS |
+| Tình huống | Nội dung |
+|---|---|
+| TH1 | Risk register và phân loại nguồn đe dọa |
+| TH2 | Kiểm chứng Defender bằng EICAR |
+| TH3 | Sự kiện xác thực 4624, 4625, 4648 và đổi mật khẩu |
+| TH4 | Persistence, Sysmon, Autoruns và listener 8080 |
+| TH5 | So sánh HTTP và HTTPS/TLS bằng Wireshark |
+| TH6 | Phân tích DoS, DDoS và mail bombing offline |
+| TH7 | Phishing và Social Engineering offline |
+| Cleanup | Gỡ artefact, dừng listener, xóa tài khoản lab và kiểm tra Defender |
 
 ## Lỗi gặp phải và cách khắc phục
 

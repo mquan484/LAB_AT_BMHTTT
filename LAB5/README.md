@@ -3,7 +3,6 @@
 - **Họ tên:** Phạm Minh Quân
 - **MSSV:** 1150080154
 - **Lớp:** 11THMT
-- **Video thực hành:** [Toàn bộ quá trình thực hiện LAB5](https://youtu.be/ZdX3I0PNqGk)
 
 ## Môi trường
 

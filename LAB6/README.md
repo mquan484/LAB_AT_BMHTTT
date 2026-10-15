@@ -82,6 +82,6 @@ Thứ tự bảy rule trên tab **LAN** trong `config.xml`:
 
 ## Báo cáo và tệp nộp
 
-- [11THMT-LAB6_1150080154_PhamMinhQuan.docx](11THMT-LAB6_1150080154_PhamMinhQuan.docx): báo cáo chi tiết, 44 hình minh chứng, bảng kết quả và phần trả lời câu hỏi.
+- [11THMT_LAB6_1150080154_PhamMinhQuan.docx](11THMT_LAB6_1150080154_PhamMinhQuan.docx): báo cáo chi tiết, 44 hình minh chứng, bảng kết quả và phần trả lời câu hỏi.
 - [config.xml](config.xml): cấu hình pfSense cuối cùng để đối chiếu interface, LDAP, Captive Portal, alias, schedule và firewall rule.
 - [Video toàn bộ quá trình thực hiện](https://youtu.be/kVgAEOxqs6E).
